@@ -1,0 +1,18 @@
+.a{
+    font-family: cursive;
+    position: relative;
+} 
+.imgclock{
+    position: relative;
+    left: 20px;
+}
+.set
+{   
+    
+    display: 
+    flex: 1;
+    flex-direction: column;
+    display: inline-block;
+    border: 10px solid blue;
+   
+}
